@@ -20,8 +20,8 @@ public class ScoreActivity extends AppCompatActivity {
          int score = getIntent().getIntExtra("p_score", 0);
         tvName = (TextView) findViewById(R.id.tv_activity_score_name);
         tvScore = (TextView) findViewById(R.id.tv_activity_score_score);
-        tvName.setText(p_name);
-        tvScore.setText(Integer.toString(score));
+        tvName.setText("Name = "+p_name);
+        tvScore.setText("Score = " +Integer.toString(score));
 
         btnFinish = (Button) findViewById(R.id.btn_activity_score_finish);
 

@@ -16,8 +16,11 @@
     <TextView
         android:id="@+id/tvName"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/enter_name" />
+        android:layout_height="43dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/enter_name"
+        android:textColor="#353434"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/txt_activity_name_name"

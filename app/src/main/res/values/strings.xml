@@ -8,16 +8,16 @@
     <string name="btn_finish">FINISH</string>
     <string name="btn_next">NEXT</string>
     <string name="btn_previous">PREVIOUS</string>
-    <string-array name="question">
-       <!-- <item>Which of the following is not a programming language.,Java,Php,Python,HTML,HTML</item>
+    <!--<string-array name="question">
+        <item>Which of the following is not a programming language.,Java,Php,Python,HTML,HTML</item>
         <item>Which of the following is not a RDBMS.,MS_SQL,Oracle,MongoDB,MySQL,MongoDB</item>
         <item>Which of the following is not an OS.,Windows,Linux,Casendra,Ubuntu,Casendra</item>
         <item>Which of the following language is supported in android development.,Kotlin,Php,Python,VB,kotlin</item>
-        <item>MS-WORD is an example of ____.,An operating system,A processing device,Application software,An input device,Application software</item>-->
+        <item>MS-WORD is an example of ____.,An operating system,A processing device,Application software,An input device,Application software</item>
          <item>What is a default file extension for all word documents?,TXT,WRD,FIL,DOC,DOC</item>
          <item>Junk e-mail is also called.,Spam,Spoof,Sniffer script,Spool,Spam</item>
          <item>The first computer was programmed using.,Assembly Language,Machine language,Spaghetti Code,Source Code,Machine Language</item>
          <item>A ___ is a software program used to view Web pages.,Site,Host,Link,Browser,Browser</item>
          <item>A ___ is approximately one billion bytes.,Megabyte,Gigabyte,Terabyte,kilobyte,Gigabyte</item>
-    </string-array>
+    </string-array>-->
 </resources>
